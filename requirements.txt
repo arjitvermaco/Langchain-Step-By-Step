@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+openai
+chromadb
+tiktoken
+faiss-cpu
+unstructured
+python-magic
